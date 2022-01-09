@@ -1,7 +1,5 @@
 # Profile Description
 
-![Profile Views](https://komarev.com/ghpvc/?username=cl4rk-github&label=Number+of+people+visited:)
-
 Name: **John Clark** <br>
 Birth Date: **April 19** <br>
 Birth Year: **2006** <br>
@@ -211,4 +209,5 @@ Mobile: <p>
 
 # GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4rk-github&theme=blue-green">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4rk-github&theme=gotham"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=cl4rk-github&theme=gotham&show_icons=true">
