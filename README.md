@@ -55,7 +55,7 @@ Join our Discord community:
 
 Like this Facebook Page for support: <br>
 <a href="https://www.facebook.com/cl4rk.3702/" target="_blank">
-<img src="	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
 Let's connect: </p>
 <a href="https://github.com/cl4rk-github" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
