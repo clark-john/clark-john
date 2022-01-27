@@ -58,7 +58,7 @@ Like this Facebook Page for support: <br>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
 Let's connect: </p>
-<a href="https://github.com/cl4rk-github" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/clark-john" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 
 
@@ -209,5 +209,5 @@ Mobile: <p>
 
 # GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4rk-github&theme=gotham"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=cl4rk-github&theme=gotham&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark-john&theme=gotham"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=clark-john&theme=gotham&show_icons=true">
