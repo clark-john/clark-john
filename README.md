@@ -58,7 +58,7 @@ Like this Facebook Page for support: <br>
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
 Let's connect: </p>
-<a href="https://github.com/cl4rk-github" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/clark-john" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 
 
@@ -110,7 +110,7 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 ## Frameworks
 
 Front-end: <p>
-<a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <a href="https://v3.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://angular.io/" target="_blank"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> </p></a>
 
@@ -160,6 +160,7 @@ Mobile: <p>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white">
 
 ## Terminal
 
@@ -209,5 +210,5 @@ Mobile: <p>
 
 # GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cl4rk-github&theme=gotham"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=cl4rk-github&theme=gotham&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark-john&theme=gotham"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=clark-john&theme=gotham&show_icons=true">
