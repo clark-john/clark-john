@@ -20,7 +20,7 @@ I'm currently learning and trying out more technologies as well as other languag
 
 
 ## Social Media 
-<center>
+<div align="center">
 <a href="https://twitter.com/cl4rk_tw" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/cl4rk_tw" /></a>
 
@@ -39,7 +39,7 @@ I'm currently learning and trying out more technologies as well as other languag
 <a href="http://cl4rk-tmblr.tumblr.com" target="_blank"> <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/></a>
 <a href="https://m.me/cl4rk.fb" target="_blank"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 <a href="https://m.me/cl4rk.fb" target="_blank"> <img src="https://img.shields.io/badge/Alt%20Acc-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-</center>
+</div>
 
 <h3>Blog</h3>
 
@@ -66,7 +66,7 @@ Let's connect: </p>
 
 ## _Contact me:_
 
-<center>
+<div align="center">
 <a href="https://t.me/cl4rk_tg" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
@@ -79,7 +79,7 @@ Let's connect: </p>
 <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
-</center>
+</div>
 <p> Line ID: &nbsp;cl4rk_line
 
 If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser (and the gmail website) to handle email protocols. And set **Gmail/Yahoo** as the default email protocol handler.
@@ -88,7 +88,7 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 
 
 ## Languages
-<center>
+<div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
@@ -110,11 +110,11 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://www.mingw-w64.org/downloads/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=windows&logoColor=white">
-</center>
+</div>
 
 ## Frameworks
 
-<center>
+<div align="center">
 
 __Front-end:__ <p>
 
@@ -139,20 +139,20 @@ __Software:__ <p>
 <!-- Mobile: <p>
 <a href="https://docs.flutter.dev/get-started/install" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
  -->
-</center>
+</div>
 
 ## Databases
 
-<center>
+<div align="center">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 <!-- <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> -->
-</center>
+</div>
 
 ## IDE/Code Editors
 
-<center>
+<div align="center">
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
@@ -164,11 +164,11 @@ __Software:__ <p>
 <!-- <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
 <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon">
-</center>
+</div>
 
 ## OS
 
-<center>
+<div align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white">
@@ -176,19 +176,19 @@ __Software:__ <p>
 <img src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white">
-</center>
+</div>
 
 ## Terminal
 
-<center>
+<div align="center">
 <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
 <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-</center>
+</div>
 
 ## Browsers
 
-<center>
+<div align="center">
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
 <img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
 <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
@@ -196,7 +196,7 @@ __Software:__ <p>
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
 <img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
 <img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
-</center>
+</div>
 
 ## Office
 
