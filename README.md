@@ -18,11 +18,11 @@ I'm currently learning and trying out more technologies as well as other languag
 - Women (haha)
 - and much others.
 
-
 ## Social Media 
 <div align="center">
 <a href="https://twitter.com/cl4rk_tw" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/cl4rk_tw" /></a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/cl4rk_tw" />
+</a>
 
 <a href="https://instagram.com/cl4rk_ig">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -43,12 +43,18 @@ I'm currently learning and trying out more technologies as well as other languag
 
 <h3>Blog</h3>
 
-<a href="https://medium.com/@cl4rk_medim"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<br>
-<br>
-Join our Discord community:
-<br>
+<div align="center">
+<a href="https://medium.com/@cl4rk_medim" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://clark-john.blogspot.com" target="_blank">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="">
+</a>
+</div>
 
+<p>
+
+Join our Discord community:<br>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 
 [Clarkinatics PH](https://discord.gg/Bky7ttfR5c) <br>
@@ -59,7 +65,7 @@ Like this Facebook Page for support: <br>
 <a href="https://www.facebook.com/cl4rk.3702/" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a>
 
-Let's connect: </p>
+Let's connect: <br>
 <a href="https://github.com/clark-john" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 
@@ -79,8 +85,10 @@ Let's connect: </p>
 <img src="https://img.shields.io/badge/Yahoo-6001D2?style=for-the-badge&logo=Yahoo&logoColor=white"></a>
 
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white">
-</div>
-<p> Line ID: &nbsp;cl4rk_line
+</div><p>
+
+Line ID: &nbsp; **cl4rk_line**
+<p>
 
 If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser (and the gmail website) to handle email protocols. And set **Gmail/Yahoo** as the default email protocol handler.
 <br>
@@ -89,13 +97,13 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 
 ## Languages
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-<a href="https://www.php.net/downloads.php#v8.1.1" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<!-- <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> -->
+<!-- <a href="https://www.php.net/downloads.php#v8.1.1" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> -->
 <a href="https://strawberryperl.com/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"></a>
 <a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
@@ -105,7 +113,7 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
-<a href="https://www.swift.org/download/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<!-- <a href="https://www.swift.org/download/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
 <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
 <a href="https://www.mingw-w64.org/downloads/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=white"></a>
@@ -124,7 +132,7 @@ __Front-end:__ <p>
 
 __Back-end:__ <p>
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></p></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="https://nodejs.org/en/download/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="https://www.djangoproject.com/download/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> </p>
 
@@ -146,6 +154,7 @@ __Software:__ <p>
 <div align="center">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://mariadb.org/" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a>
 <!-- <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"> -->
 </div>
