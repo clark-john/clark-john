@@ -38,7 +38,7 @@ I'm currently learning and trying out more technologies as well as other languag
 
 <a href="http://cl4rk-tmblr.tumblr.com" target="_blank"> <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/></a>
 <a href="https://m.me/cl4rk.fb" target="_blank"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-<a href="https://m.me/cl4rk.fb" target="_blank"> <img src="https://img.shields.io/badge/Alt%20Acc-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+<a href="https://m.me/lentograzioso" target="_blank"> <img src="https://img.shields.io/badge/Alt%20Acc-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 </div>
 
 <h3>Blog</h3>
@@ -92,7 +92,7 @@ Line ID: &nbsp; **cl4rk_line**
 
 If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser (and the gmail website) to handle email protocols. And set **Gmail/Yahoo** as the default email protocol handler.
 <br>
-# Tech Experiences
+# Tech Skills
 
 
 ## Languages
@@ -104,15 +104,16 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 <a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <!-- <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> -->
 <!-- <a href="https://www.php.net/downloads.php#v8.1.1" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> -->
-<a href="https://strawberryperl.com/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"></a>
+<!-- <a href="https://strawberryperl.com/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"></a> -->
 <a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <a href="https://cran.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 <a href="https://sass-lang.com/install" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" alt=""></a>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
+<!-- <a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a> -->
 <!-- <a href="https://www.swift.org/download/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
 <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
 <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
@@ -126,15 +127,16 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 
 __Front-end:__ <p>
 
-<a href="https://jquery.com/" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
 <a href="https://v3.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
+<a href="https://quasar.dev/" target="_blank"><img src="https://img.shields.io/badge/Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white"></a>
 <a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> </p></a>
 
 __Back-end:__ <p>
 
 <a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="https://nodejs.org/en/download/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-<a href="https://www.djangoproject.com/download/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a> </p>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" alt=""></a>
+<!-- <a href="https://www.djangoproject.com/download/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>--> </p> 
 
 __CSS:__ <p>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/download/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
