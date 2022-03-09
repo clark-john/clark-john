@@ -144,7 +144,7 @@ __CSS:__ <p>
 
 __Software:__ <p>
 <a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-<!-- <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a> -->
+<a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a>
 
 <!-- Mobile: <p>
 <a href="https://docs.flutter.dev/get-started/install" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
