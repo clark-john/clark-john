@@ -101,7 +101,7 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<!-- <a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
 <!-- <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> -->
 <!-- <a href="https://www.php.net/downloads.php#v8.1.1" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> -->
 <!-- <a href="https://strawberryperl.com/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"></a> -->
@@ -116,8 +116,8 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 <!-- <a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a> -->
 <!-- <a href="https://www.swift.org/download/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
 <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
-<a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
-<a href="https://www.mingw-w64.org/downloads/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=white"></a>
+<!-- <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a> -->
+<!-- <a href="https://www.mingw-w64.org/downloads/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=white"></a> -->
 <img src="https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=windows&logoColor=white">
 </div>
 
