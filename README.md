@@ -27,9 +27,6 @@ I'm currently learning and trying out more technologies as well as other languag
 <a href="https://instagram.com/cl4rk_ig">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-<a href="https://www.linkedin.com/in/clarkjohn6099" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-
 <a href="https://tiktok.com/@cl4rk_tiktok" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
@@ -38,7 +35,7 @@ I'm currently learning and trying out more technologies as well as other languag
 
 <a href="http://cl4rk-tmblr.tumblr.com" target="_blank"> <img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"/></a>
 <a href="https://m.me/cl4rk.fb" target="_blank"> <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
-<a href="https://m.me/lentograzioso" target="_blank"> <img src="https://img.shields.io/badge/Alt%20Acc-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+<a href="https://m.me/await.returnx" target="_blank"> <img src="https://img.shields.io/badge/Alt%20Acc-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
 </div>
 
 <h3>Blog</h3>
