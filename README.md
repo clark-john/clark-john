@@ -130,7 +130,7 @@ __Front-end:__ <p>
 
 __Back-end:__ <p>
 
-<a href="https://flask.palletsprojects.com/en/2.0.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
 <a href="https://nodejs.org/en/download/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" alt=""></a>
 <!-- <a href="https://www.djangoproject.com/download/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>--> </p> 
