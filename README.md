@@ -194,54 +194,6 @@ __Software:__ <p>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-## Browsers
-
-<div align="center">
-<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
-<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white">
-<img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-<img src="https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white">
-<img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white">
-</div>
-
-## Office
-
-<div align="center">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white">
-</div>
-
-## Design
-
-<div align="center">
-<img src="https://img.shields.io/badge/affinity%20designer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Affinty%20Publisher-C9284D?style=for-the-badge&logo=AffinityPublisher&logoColor=white"> -->
-</div>
-
-## Others
-
-<div align="center">
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white">
-<img src="https://img.shields.io/badge/Apple-000?style=for-the-badge&logo=apple&logoColor=white">
-<img src="https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=Bluetooth&logoColor=white">
-<img src="https://img.shields.io/badge/Dolby-000?style=for-the-badge&logo=dolby&logoColor=white">
-<img src="https://img.shields.io/badge/Samsung-1428A0?style=for-the-badge&logo=Samsung&logoColor=white">
-<img src="https://img.shields.io/badge/GNU-A42E2B?style=for-the-badge&logo=gnu&logoColor=white">
-</div>
-
-----
-
 # GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clark-john&theme=gotham"><br>
