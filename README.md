@@ -147,7 +147,6 @@ __CSS:__ <p>
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 __Software:__ <p>
-<a href="https://dotnet.microsoft.com/en-us/download" target="_blank"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
 <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a>
 
 <!-- Mobile: <p>
