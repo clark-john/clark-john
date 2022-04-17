@@ -92,8 +92,8 @@ If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser
 
 # Learning Sources.
 
-[Learn Git](./others/git.md)
-See [here](./others/learning_sources.md)
+- [Learn Git](./others/git.md)
+- See [here](./others/learning_sources.md)
 
 # Contributions
 
