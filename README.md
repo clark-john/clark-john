@@ -1,11 +1,7 @@
 # Profile Description
 
-Name: **John Clark** <br>
-Birth Date: **April 19** <br>
-Birth Year: **2006** <br>
 Nationality: 🇵🇭 <br>
-Hometown: **Manila** <Br>
-Current Town: **Bustos** <Br>
+Hometown: **Manila** <br>
 
 I'm currently learning and trying out more technologies as well as other languages. 
 
