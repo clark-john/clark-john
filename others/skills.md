@@ -7,6 +7,7 @@ Back to [main](../README.md)
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<img src="https://img.shields.io/badge/Typescript-3076C4?style=for-the-badge&logo=typescript&logoColor=white">
 <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <!-- <a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
 <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
@@ -32,11 +33,11 @@ Back to [main](../README.md)
 
 <div align="center">
 
-__Front-end:__ <p>
+__Front-end:__ 
 
 <a href="https://v3.vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
 <a href="https://quasar.dev/" target="_blank"><img src="https://img.shields.io/badge/Quasar-1976d2?style=for-the-badge&logo=quasar&logoColor=white"></a>
-<a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> </p></a>
+<a href="https://svelte.dev/" target="_blank"><img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> </a>
 
 __Back-end:__ <p>
 
@@ -45,7 +46,7 @@ __Back-end:__ <p>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white" alt=""></a>
 <!-- <a href="https://www.djangoproject.com/download/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>--> </p> 
 
-__CSS:__ <p>
+__CSS:__ <br>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/download/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
