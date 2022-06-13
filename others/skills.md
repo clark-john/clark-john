@@ -9,10 +9,10 @@ Back to [main](../README.md)
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <a href="https://www.python.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <!-- <a href="https://www.mingw-w64.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> -->
-<!-- <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a> -->
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <!-- <a href="https://www.php.net/downloads.php#v8.1.1" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a> -->
 <!-- <a href="https://strawberryperl.com/" target="_blank"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"></a> -->
-<a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
+<!-- <a href="https://www.haskell.org/" target="_blank"><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a> -->
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 <a href="https://cran.r-project.org/" target="_blank"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -20,9 +20,9 @@ Back to [main](../README.md)
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" alt=""></a>
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<!-- <a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a> -->
+<a href="https://www.ruby-lang.org/en/downloads/" target="_blank"><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></a>
 <!-- <a href="https://www.swift.org/download/" target="_blank"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a> -->
-<a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+<!-- <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a> -->
 <!-- <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a> -->
 <!-- <a href="https://www.mingw-w64.org/downloads/"><img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=Fortran&logoColor=white"></a> -->
 <img src="https://img.shields.io/badge/Batch-000?style=for-the-badge&logo=windows&logoColor=white">
@@ -49,9 +49,9 @@ __CSS:__ <p>
 <a href="https://getbootstrap.com/docs/5.1/getting-started/download/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
-__Software:__ <p>
+<!-- __Software:__ <p>
 <a href="https://www.electronjs.org/" target="_blank"><img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"></a>
-
+ -->
 <!-- Mobile: <p>
 <a href="https://docs.flutter.dev/get-started/install" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
  -->
