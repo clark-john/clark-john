@@ -86,18 +86,9 @@ Line ID: &nbsp; **cl4rk_line**
 If the **Gmail/Yahoo** button doesn't work, make sure that you allow the browser (and the gmail website) to handle email protocols. And set **Gmail/Yahoo** as the default email protocol handler.
 <br>
 
-# Learning Sources.
-
-- [Learn Git](./others/git.md)
-- See [here](./others/learning_sources.md)
-
 # Contributions
 
 See [here](./others/contributions.md)
-
-# Tech Skills
-
-See [here](./others/skills.md)
 
 # GitHub Stats:
 
