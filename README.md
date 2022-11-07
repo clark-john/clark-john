@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/youtube/channel/subscribers/UCVHTymEnrVmpz7dtCsV6vpQ?style=social" />
 
-I'm just here to build things. Known mostly for correcting, helping fellow programmers/developers on TikTok. 
+I'm just here to build things.
 
 Click at this image below to visit my TikTok (sometimes I post stories):
 
