@@ -2,9 +2,9 @@
 	<img src="https://badgen.net/badge/icon/twitter?icon=twitter&label" />
 </a>
 
-<img src="https://img.shields.io/twitch/status/cl4rk_twitch?style=social" />
+<img src="https://img.shields.io/twitch/status/jclarkie_?style=social" />
 
-<img src="https://img.shields.io/youtube/channel/subscribers/UCVHTymEnrVmpz7dtCsV6vpQ?style=social" />
+<img src="https://img.shields.io/youtube/channel/subscribers/UCJuvgoQJSfDXgPu5lOrRCYg?style=social" />
 
 <div align='center'>
   <a href="https://tiktok.com/@httpistyep" target="_blank">
